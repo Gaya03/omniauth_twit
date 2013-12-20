@@ -1,6 +1,5 @@
 source 'http://rubygems.org'
 gem 'omniauth-linkedin'
-gem 'omniauth-twitter'
 gem 'rails', '3.0.7'
 gem "rspec-rails", ">= 2.5.0", :group => [:development, :test]
 gem "database_cleaner", ">= 0.6.7", :group => :test
